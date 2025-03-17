@@ -31,6 +31,10 @@ Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de
 
 ![Público do evento 1](img/d-01.jpg)
 
+![Público do evento 2](img/d-05.jpg)
+
+![Público do evento 3](img/d-22.jpg)
+
 ![Renato palestrando 1](img/d-24.jpg)
 
 ![Renato palestrando 2](img/d-19.jpg)
