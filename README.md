@@ -13,7 +13,7 @@ Apresentações/talks que aconteceram durante o evento:
 
 * **Testcontainers + GitHub Actions: turbinando e descomplicando a automação de Testes de Integração - Renato Groffe (Microsoft MVP, Docker Captain, MTAC) e Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-* **Painel: DevOps e Nuvem - importâncias, dicas de carreira, certificações e muito mais! - Renato Groffe (Microsoft MVP, Docker Captain, MTAC), Milton Camara Gomes (Microsoft MVP, MTAC) e Rodrigo Jordão**
+* **Painel: DevOps e Nuvem - importâncias, dicas de carreira, certificações e muito mais! - Renato Groffe (Microsoft MVP, Docker Captain, MTAC), Milton Camara Gomes (Microsoft MVP, MTAC) e Rodrigo Jordão (Senior DevOps Analyst)**
 
 Tecnologias e tópicos abordados: **GitHub, GitHub Actions, Git, Testes, DevOps, CI/CD, SRE Docker, Testcontainers, Docker Hub, .NET, ASP.NET Core, C#, Linux, Kubernetes, Terraform, Java, Node.js, Python, Go...**
 
