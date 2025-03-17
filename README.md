@@ -15,10 +15,18 @@ Apresentações/talks que aconteceram durante o evento:
 
 * **Painel: DevOps e Nuvem - importâncias, dicas de carreira, certificações e muito mais! - Renato Groffe (Microsoft MVP, Docker Captain, MTAC), Milton Camara Gomes (Microsoft MVP, MTAC) e Rodrigo Jordão (Senior DevOps Analyst)**
 
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, Git, Testes, DevOps, CI/CD, SRE Docker, Testcontainers, Docker Hub, .NET, ASP.NET Core, C#, Linux, Kubernetes, Terraform, Java, Node.js, Python, Go...**
+Tecnologias e tópicos abordados: **GitHub, GitHub Actions, Git, Testes, DevOps, CI/CD, SRE Docker, Testcontainers, Docker Hub, .NET, ASP.NET Core, C#, Linux, Kubernetes, Terraform, Cybersecurity, API Security, Java, Node.js, Python, Go...**
+
+Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/devops-weekend-github-containers-certificacoes-gratuito-e-presencial-sao-paulo-sp/2834466)
 
 Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
+
+---
+
+![Banner do evento](img/banner.png)
+
+![Renato palestrando](img/d-20.jpg)
