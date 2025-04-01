@@ -15,7 +15,7 @@ Apresentações/talks que aconteceram durante o evento:
 
 * **Painel: DevOps e Nuvem - importâncias, dicas de carreira, certificações e muito mais! - Renato Groffe (Microsoft MVP, Docker Captain, MTAC), Milton Camara Gomes (Microsoft MVP, MTAC) e Rodrigo Jordão (Senior DevOps Analyst)**
 
-Tecnologias e tópicos abordados: **GitHub, GitHub Actions, Git, Testes, DevOps, CI/CD, SRE, Docker, Testcontainers, Docker Hub, .NET, ASP.NET Core, C#, Linux, Kubernetes, Terraform, Cybersecurity, API Security, Java, Node.js, Python, Go...**
+Tecnologias e tópicos abordados: **GitHub, GitHub Actions, Git, Testes, DevOps, CI/CD, SRE, Azure Certifications, Linux and Cloud Native Certifications, APIsec Certifications, Docker, Testcontainers, Docker Hub, .NET, ASP.NET Core, C#, Linux, Kubernetes, Terraform, Cybersecurity, API Security, Java, Node.js, Python, Go...**
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
